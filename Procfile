@@ -1,1 +1,0 @@
-web: python AI2.py
